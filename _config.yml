@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "en"
 title                    : "dafuloth.me"
 title_separator          : " :: "
 name                     : "David Thai"
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "David Thai"
-  avatar           : "infinity.png"
+  avatar           : "./images/infinity.png"
   bio              : "A simple site where I can focus on what matters"
   location         : "London, UK"
   email            :

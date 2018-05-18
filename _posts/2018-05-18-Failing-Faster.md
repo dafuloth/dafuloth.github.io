@@ -1,13 +1,13 @@
 ---
-published: false
+published: true
 author: David Thai
 categories:
   - blog
-comments: true
+comments: false
 ---
 ## Failing Faster
 
-That's not pessimism speaking. A long time ago, an [Extra Credits episode](https://www.youtube.com/watch?v=rDjrOaoHz9s) introduced me to the idea. It's an idea that really resonates with me because I feel that it identifies my greatest flaw.
+That's not pessimism talking. A long time ago, an [Extra Credits episode](https://www.youtube.com/watch?v=rDjrOaoHz9s) introduced me to the idea. It's an idea that really resonates with me because I feel that it identifies my greatest flaw.
 
 The video uses the term in the context of design but I think that it can apply more broadly than that. It applies to life too.
 
@@ -21,7 +21,7 @@ This whole time I've been trying to finish my degree but the illness has made it
 
 I wonder how much more I might have achieved if I'd been less myopic.
 
-Whatever I decide to do, I may have to finish off the degree at some point but maybe it doesn't have to be such a high priority. There were reasons/circumstances, and not just blind determination, behind why I stuck with it for as long as I did. The short version is that the degree was Plan A, and I was already too far along to be able to back out. The only way out is through. Switching to an apprenticeship was a potential Plan B but due to the work I've already put into the degree, I'm technically overqualified. I plan to keep monitoring that situation as I'd be really keen to get onto an apprenticeship if I can.
+Whatever I decide to do, I may have to finish off the degree at some point but maybe it doesn't have to be so immediate a priority. There were reasons/circumstances, and not just blind determination, behind why I stuck with it for as long as I did. The short version is that the degree was Plan A, and I was already too far along to be able to back out. The only way out is through. Switching to an apprenticeship was a potential Plan B but due to the work I've already put into the degree, I'm technically overqualified. I plan to keep monitoring that situation as I'd be really keen to get onto an apprenticeship if I can.
 
 Thinking about the more immediate future, hopefully, I manage to secure that internship I applied for. It'll be closer towards what I had wanted for a career and so be preferable to a retail job. I got through the initial sift and have a video interview next.
 

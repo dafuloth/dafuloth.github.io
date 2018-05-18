@@ -5,8 +5,6 @@ categories:
   - blog
 comments: false
 ---
-## Failing Faster
-
 That's not pessimism talking. A long time ago, an [Extra Credits episode](https://www.youtube.com/watch?v=rDjrOaoHz9s) introduced me to the idea. It's an idea that really resonates with me because I feel that it identifies my greatest flaw.
 
 The video uses the term in the context of design but I think that it can apply more broadly than that. It applies to life too.

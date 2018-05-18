@@ -21,6 +21,6 @@ I wonder how much more I might have achieved if I'd been less myopic.
 
 Thinking about the more immediate future, hopefully, I manage to secure that internship I applied for. It'll be closer towards what I had wanted for a career and so be preferable to a retail job. I got through the initial sift and have a video interview next.
 
-Or perhaps maybe I can find happiness in pursuing a career doing something else other than my first ambition. At least then I would be moving on with my life instead of being stuck in this purgatory.
-
 Whatever I decide to do, I may have to finish off the degree at some point but maybe it doesn't have to be so immediate a priority. There were reasons/circumstances, and not just blind determination, behind why I stuck with it for as long as I did. The short version is that the degree was Plan A, and I was already too far along to be able to back out. The only way out is through. Switching to an apprenticeship was a potential Plan B but due to the work I've already put into the degree, I'm technically overqualified. I plan to keep monitoring that situation as I'd be really keen to get onto an apprenticeship if I can, assuming I don't manage something better.
+
+Or perhaps maybe I can find happiness in pursuing a career doing something else other than my first ambition. At least then I would be moving on with my life instead of being stuck in this purgatory.

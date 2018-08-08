@@ -12,7 +12,7 @@ Here's the feedback:
 
 The internship was in IT vendor management. Maybe I might have succeeeded if I left out my developer ambitions. It's good feedback and I'm glad to receive it so I know how to do better for future interviews. 
 
-I appreciate the feedback and their honesty but maybe I was a little _too_ honest myself. I guess I was hoping they would appreciate someone open to new ideas and keen to broaden their horizons. Maybe I might have decided after this internship that IT vendor management was wanted to do going forward. Perhaps we'll never know.
+I appreciate the feedback and their honesty but maybe I was a little _too_ honest myself. I guess I was hoping they would appreciate someone open to new ideas and keen to broaden their horizons. Maybe I might have decided after this internship that IT vendor management was what I wanted to do going forward. Perhaps we'll never know.
 
 The recruiter explained in a web conference for applicants that this internship would involve working with different areas of the business across their London offices, so I was hoping I might have got the chance to meet one of their developers.
 

@@ -16,4 +16,4 @@ I appreciate the feedback and their honesty but maybe I was a little _too_ hones
 
 The recruiter explained in a web conference for applicants that this internship would involve working with different areas of the business across their London offices, so I was hoping I might have got the chance to meet one of their developers.
 
-So yes, my interests do "lie in developing". No sense denying it. Next stop, coding bootcamp. Makers is a little inaccessible right now due to the £8000 upfront cost. Instead, I'm looking at [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/london/) because even though they cost more, only only ask for the deposit upfront.
+So yes, my interests do "lie in developing". No sense denying it. Next stop, coding bootcamp. Makers is a little inaccessible right now due to the £8000 upfront cost. Instead, I'm looking at [Flatiron School](https://flatironschool.com/career-courses/coding-bootcamp/london/) because even though they cost more, they only ask for the deposit upfront.

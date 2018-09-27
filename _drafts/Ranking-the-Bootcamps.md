@@ -1,7 +1,6 @@
 ---
 title: Ranking The Bootcamps
 date: 2018-08-14 00:00:00 Z
-published: false
 categories:
 - blog
 author: David Thai

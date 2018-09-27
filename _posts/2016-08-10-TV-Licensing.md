@@ -1,11 +1,12 @@
 ---
-published: true
-title: "Thoughts on the TV License"
-author: "David Thai"
-categories: [blog]
-tags:
+title: Thoughts on the TV License
+date: 2016-08-10 00:00:00 Z
+categories:
+- blog
+author: David Thai
 comments: true
 ---
+
 The "number of televisions"* line got my attention. It was in a comment on a Facebook post that was talking about the TV License. If anyone cares, here are my thoughts - as a Brit living in London, UK who feels that the TV Licence is worth it. If I say anything that's inaccurate, I'm happy to be corrected.
 
 _*Person who made that comment is forgiven, as I don't think he's British and he does go on to correct himself - The TV License is a single annual fee per household, not a fee per television_ :P

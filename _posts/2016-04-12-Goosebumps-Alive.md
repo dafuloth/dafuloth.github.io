@@ -1,14 +1,15 @@
 ---
-published: true
-author: "David Thai"
-title: "REVIEW: Goosebumps Alive"
-categories: 
-  - reviews
-tags: 
-  - goosebumps
-  - theatre
+title: 'REVIEW: Goosebumps Alive'
+date: 2016-04-12 00:00:00 Z
+categories:
+- reviews
+tags:
+- goosebumps
+- theatre
+author: David Thai
 comments: true
 ---
+
 I saw Goosebumps Alive and wrote a review on their Facebook page. The Vaults are an amazing venue...
 <div id="fb-root"></div>
 <script>(function(d, s, id) {

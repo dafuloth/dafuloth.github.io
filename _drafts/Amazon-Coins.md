@@ -1,6 +1,8 @@
 ---
-published: false
+title: Amazon Coins
+date: 2016-09-07 00:00:00 Z
 ---
+
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

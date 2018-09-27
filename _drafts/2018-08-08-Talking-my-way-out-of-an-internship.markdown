@@ -1,6 +1,7 @@
 ---
 published: false
 ---
+
 So I did get feedback on that Technology Internship I applied for. I thought the video interview went well. In a sense it did but it seems I talked my way out of the job :(
 
 Here's the feedback:

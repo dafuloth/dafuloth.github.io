@@ -30,22 +30,17 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-	
-	<!-- EDIT: Trying to show the date -->
-	
+
 	<!-- EDIT: Date goes here...-->
-	<p style="float:left" class="page__meta">
+	<p class="page__meta">
 	<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %e %b %Y" }}</time></p>
 	</p>	
 	
 	
     {% if post.read_time %}
-	<!-- EDIT: Float readtime right... style="float:right" -->
-      <p style="float:right" class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-	
-	<!-- EDIT: clear floats...-->  
-	<div style="clear: both;"></div>			
+		
 			
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 180 }}</p>{% endif %}
   </article>

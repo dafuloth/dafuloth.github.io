@@ -1,14 +1,14 @@
 ---
-published: true
 title: 'TECH: VR Headsets'
-author: David Thai
+date: 2016-07-19 00:00:00 Z
 categories:
-  - tech
+- tech
 tags:
-  - vr
-  - games
-  - virtual reality
-  - pokemon go
+- vr
+- games
+- virtual reality
+- pokemon go
+author: David Thai
 comments: true
 ---
 

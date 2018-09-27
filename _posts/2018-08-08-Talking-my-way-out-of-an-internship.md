@@ -1,9 +1,11 @@
 ---
-published: true
-author: David Thai
+title: Talking My Way Out Of An Internship
+date: 2018-08-08 00:00:00 Z
 categories:
-  - blog
+- blog
+author: David Thai
 ---
+
 So I did get feedback on that Technology Internship I applied for. I thought the video interview went well. In a sense it did but it seems I talked my way out of the job :(
 
 Here's the feedback:

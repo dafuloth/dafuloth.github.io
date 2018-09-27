@@ -1,9 +1,12 @@
 ---
+title: Ranking The Bootcamps
+date: 2018-08-14 00:00:00 Z
 published: false
-author: David Thai
 categories:
-  - blog
+- blog
+author: David Thai
 ---
+
 There are a whole bunch of dev bootcamps to choose from in London. Yesterday I visited my top two choices for dev bootcamps. Flatiron School had a campus tour session at 12pm and Makers had a Q&A at 6:30pm.
 
 Trying to stump up as much as £8000 upfront is a big ask so I'm trying to find some way around it if I can.

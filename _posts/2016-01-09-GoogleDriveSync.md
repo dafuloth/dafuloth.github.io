@@ -1,11 +1,18 @@
 ---
-published: true
-title: "Google Drive misbehaves when sync folder is on a NAS"
-author: "David Thai"
-categories: [tech]
-tags: [cloud,problem and solution,google,google drive,onedrive]
+title: Google Drive misbehaves when sync folder is on a NAS
+date: 2016-01-09 00:00:00 Z
+categories:
+- tech
+tags:
+- cloud
+- problem and solution
+- google
+- google drive
+- onedrive
+author: David Thai
 comments: true
 ---
+
 #### Problem:
 If the Google Drive sync folder is on a NAS, Google Drive sync will complain that the folder is missing when computer resumes from Sleep or Hibernation.
 

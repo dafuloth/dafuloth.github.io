@@ -27,7 +27,7 @@ description: 'dafuloth.me is my personal blog, built on the Minimal Mistakes the
   by Michael Rose. '
 url: https://dafuloth.me
 baseurl: 
-repository: 
+repository: dafuloth/dafuloth.github.io
 teaser: 
 breadcrumbs: true
 words_per_minute: 200

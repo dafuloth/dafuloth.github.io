@@ -1,13 +1,13 @@
 ---
-label: 2018-05-18 00:00:00 +0000
-hide_body: 
-is_partial: 
+label: Posts
+hide_body: false
+is_partial: false
 fields:
 - name: author
   label: Author
   type: text
   hidden: false
-  default: ''
+  default: David Thai
 - name: categories
   label: Categories
   type: tag_list

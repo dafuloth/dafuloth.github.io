@@ -1,0 +1,45 @@
+---
+label: Defaults
+hide_body: false
+is_partial: false
+fields:
+- type: field_group
+  label: scope
+  name: scope
+  fields:
+  - type: text
+    name: path
+    label: path
+    default: '""'
+  - type: text
+    default: posts
+    label: type
+    name: type
+- type: field_group
+  label: values
+  name: values
+  fields:
+  - type: text
+    label: layout
+    name: layout
+    default: single
+  - type: boolean
+    name: author_profile
+    label: author_profile
+    default: true
+  - type: boolean
+    default: true
+    label: read_time
+    name: read_time
+  - type: boolean
+    name: comments
+    label: comments
+    default: true
+  - type: boolean
+    label: share
+    name: share
+    default: true
+  - type: boolean
+    name: related
+    label: related
+    default: true

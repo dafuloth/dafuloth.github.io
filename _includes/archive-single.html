@@ -29,11 +29,14 @@
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
 
 	<!-- EDIT: Date goes here...-->
 	<p class="page__meta">
-	<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %e %b %Y" }}</time></p>
+	<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %e %b %Y" }}</time></p>	  
+	  
+    </h2>
+
+
 
 	
 	

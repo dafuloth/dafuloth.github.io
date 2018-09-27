@@ -43,5 +43,3 @@ fields:
     name: related
     label: related
     default: true
-pages:
-- _posts/test.md

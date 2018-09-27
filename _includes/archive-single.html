@@ -28,17 +28,12 @@
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      {% endif %}	  
+    </h2>
 
 	<!-- EDIT: Date goes here...-->
 	<p class="page__meta">
-	<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %e %b %Y" }}</time></p>	  
-	  
-    </h2>
-
-
-
-	
+	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%a, %e %b %Y" }}</time></p>
 	
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>

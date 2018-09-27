@@ -175,7 +175,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
-permalink: pretty
+permalink: /:categories/:year+:month+:day+"_"+:title/
 paginate: 5
 paginate_path: "/page:num/"
 plugins:

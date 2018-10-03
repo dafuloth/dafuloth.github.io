@@ -19,5 +19,5 @@ If not for Jekyll, in time I might have begrudgingly gone with WordPress. But le
 
 If I need any dynamic features like a comment system or email form, there are plenty of external services I can embed.
 
-###The CMS
+### The CMS
 For me, the major advantage of WordPress is that it's got a great CMS (Content Management System). Because I wasn't fond of the write/commit/push cycle every time I wanted to post, I ended up not posting much. More specifically, I wasn't keen on having to do it myself. I wanted to be able to just write, click a button and be done with it. So what I needed was some web based system to manage my blog. What I needed was a CMS. For a while I tried Prose. Now I use Siteleaf.

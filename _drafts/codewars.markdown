@@ -11,4 +11,4 @@ Without much difficulty I since have reached *5 kyu* and I have the profile badg
 
 <img src="https://www.codewars.com/users/dafuloth/badges/large">
 
-Up to this point, I haven't needed to think too deeply to solve the kata. It looks like 5 kyu onwards is when things start getting serious. My usual approach of reading the brief and then implementing a solution step-by-step based on the brief, doesn't quite work so well anymore. Now I'm going to have to *really* think about the problem!
+Up to this point, I haven't needed to think too deeply to solve the kata. It looks like *5 kyu* onwards is when things start getting serious. My usual approach has been to read the brief and dive in to implement a step-by-step solution based on the brief, but that doesn't quite work so well anymore. Now I'm going to have to *really* think about the problem!

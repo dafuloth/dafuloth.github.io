@@ -10,7 +10,7 @@ Jekyll is wonderful. When GitHub Pages launched, it was exactly what I was looki
 ### About Jekyll...
 It's lightweight and is quite easy to use, after some setup and configuration. When all I want is somewhere to write stuff it's perfect. Before static site generators were a thing, popular ways to have blog were sites like Blogger or WordPress.
 
-Jekyll has changed everything. Unlike Blogger, I feel a greater sense of ownership and my blog truly feels like it's *mine*. And unlike WordPress, Jekyll is lighter and doesn't come with all the WordPress baggage.
+Jekyll has changed everything. Unlike Blogger, I feel a greater sense of ownership and my blog truly feels like it's *mine*. And unlike WordPress, Jekyll is lighter and doesn't come with all the baggage of WordPress.
 
 In short, with Blogger I didn't feel like I had enough control, and while WordPress did give me full control over all aspects of my blog it was overkill for what I wanted to do.
 

@@ -176,7 +176,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: "/:categories/:year:month:day-:title/"
-paginate: 5
+paginate: 4
 paginate_path: "/page:num/"
 plugins:
 - jekyll-paginate

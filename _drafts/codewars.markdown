@@ -5,4 +5,8 @@ categories:
 - blog
 ---
 
-I joined Codewars just over two weeks ago and I've found it a lot of fun
+I joined Codewars just over two weeks ago, on the 17th last month, and it's been a lot of fun!
+
+Without much difficulty I have reached *5 kyu* and I have the profile badge to prove it:
+
+<img src="/users/dafuloth/badges/large">

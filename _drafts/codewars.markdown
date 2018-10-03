@@ -7,6 +7,6 @@ categories:
 
 I joined Codewars just over two weeks ago, on the 17th last month, and it's been a lot of fun!
 
-Without much difficulty I have reached *5 kyu* and I have the profile badge to prove it:
+Without much difficulty I since have reached *5 kyu* and I have the profile badge to prove it ;)
 
 <img src="https://www.codewars.com/users/dafuloth/badges/large">

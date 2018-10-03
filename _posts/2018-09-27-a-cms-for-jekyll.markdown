@@ -15,7 +15,7 @@ Jekyll has changed everything. Unlike Blogger, I feel a greater sense of ownersh
 In short, with Blogger I didn't feel like I had enough control, and while WordPress did give me full control over all aspects of my blog it was overkill for what I wanted to do.
 
 ### Why Jekyll
-If not for Jekyll, in time I might have begrudgingly gone with WordPress. But let me talk more on the "overkill" aspect. WordPress is a dynamic blog. Dynamic because of php backed by a MySQL database. On a practical note, the things that make WordPress dynamic are also what introduce security vulnerabilities, so I would have to keep up to date with latest updates. With a static blog, I don't have to worry about any of that and still have everything I want from a blogging system.
+If not for Jekyll, in time I might have begrudgingly gone with WordPress. But let me talk more on the "overkill" aspect. WordPress is a dynamic blog. Dynamic because of php backed by a MySQL database. On a practical note, the things that make WordPress dynamic are also what introduce security vulnerabilities, so I would have to keep up to date with latest updates. With a static blog, I don't have to worry about any of that and still have everything I want from a blogging system. The only update I ever have to apply is if I want to update the theme my blog is using.
 
 If I need any dynamic features like a comment system or email form, there are plenty of external services I can embed.
 

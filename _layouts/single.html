@@ -68,7 +68,9 @@ layout: default
         {% endif %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+      {% if page.share %}
+      <div style="text-align: center">{% include social-share.html %}</div>
+      {% endif %}
 
       {% include post_pagination.html %}
     </div>

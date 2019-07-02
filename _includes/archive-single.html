@@ -40,6 +40,6 @@
       {% endif %}
     </p>
     <br>
-    {% if post.excerpt %}<p style="clear: both;" class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 180 }}</p>{% endif %}
+    {% if post.excerpt %}<p style="clear: both;" class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 240 }}</p>{% endif %}
   </article>
 </div>

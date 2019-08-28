@@ -126,6 +126,9 @@ author:
     - label: "Steam"
       icon: "fab fa-fw fa-steam-square"
       url: "https://steamcommunity.com/id/ilmarinen"
+    - label: "dev.to"
+      icon: "fab fa-fw fa-dev"
+      url: "https://dev.to/dafuloth"
 
 
 # Site Footer

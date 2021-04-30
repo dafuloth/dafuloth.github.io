@@ -1,12 +1,14 @@
 ---
 title: Magical Machine Learning
+date: 2019-07-02 00:00:00 +01:00
 categories:
 - blog
 tags:
-- 'machine learning'
+- machine learning
 - Makers
 comments: true
 ---
+
 [CGP Grey's video](https://www.youtube.com/watch?v=R9OHn5ZF4Uo) describes a fundamental thing about machine learning that I find interesting: regarding neural networks specifically, even though we may understand the process of training them so that they will produce a correct result, we can't really explain their "thought process".<!--more-->
 
 {% include video id="R9OHn5ZF4Uo" provider="youtube" %}

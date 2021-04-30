@@ -6,6 +6,6 @@ categories:
 tags:
 - tech
 - reviews
-comments: false
+comments: true
 
 ---

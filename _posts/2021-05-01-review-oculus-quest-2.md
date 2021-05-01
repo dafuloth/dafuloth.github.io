@@ -28,7 +28,7 @@ The latest graphics card I have access to is the NVIDIA GeForce GTX 1060 Mobile,
 
 My main complaint is to do with the ergonomics. The headset is very front-heavy and can quickly become uncomfortable with the included strap, unless I miraculously have it exactly right.
 
-![]()
+![](/assets/uploads/quest-2-elite-strap-broken.jpg)
 
 Oculus also sells an Elite Strap that is easier to adjust and is more comfortable. After little more than a week I caved and shelled out for the Elite Strap (with battery), and with it I was having a much better time in VR. In my view, the Elite Strap is not an optional accessory.
 

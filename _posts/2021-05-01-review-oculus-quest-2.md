@@ -50,4 +50,4 @@ The Oculus Quest 2 is an amazing bit of tech that's been let down by poor design
 
 Overall I don't regret my purchase of the Quest 2 but if there's one thing I would have done differently it's that I would either go for an alternative solution to counterbalance the front-heavy headset, or buy the Elite Strap from somewhere else - either John Lewis, or even Amazon - so that if it breaks within the warranty period, I could have got a refund more easily.
 
-If I had known about [VR Balance](https://vrbalance.net/) before I bought my Elite Strap directly from Oculus.
+If I had known about [VR Balance](https://vrbalance.net/) before I bought my Elite Strap directly from Oculus, I might have gone for that. I still might.

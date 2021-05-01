@@ -18,7 +18,11 @@ My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 i
 
 # The good
 
-I was never much into the idea of tethered VR, and with Oculus Air Link I can use the Quest 2 for PCVR without being connected by USB.
+At this point I've completed three games: Red Matter, The Room VR: A Dark Matter, and most recently Tokyo Chronos. All grabbed when they were the Oculus daily deals or if I had a discount code.
+
+I have not been disappointed
+
+I was never much into the idea of tethered VR, and now with Oculus Air Link I can use the Quest 2 for PCVR without being connected by USB. I did consider getting the Oculus Link cable but I'm glad I didn't (saving myself the £89!) because there's plenty enough to do with just the standalone HMD, and I've got Air Link for any of the minimal PCVR I may want to do.
 
 And rather than the headset being merely a peripheral for a VR-capable PC, the Quest 2 is its own standalone unit, i.e. it's a VR games console. The advantage of that, and the concept of games consoles generally, is that I don't have to worry about my hardware specs. I don't have to worry about keeping up with the latest graphics card, of which there is currently a shortage.
 

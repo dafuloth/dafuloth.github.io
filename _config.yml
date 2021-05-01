@@ -1,206 +1,269 @@
----
-title: dafuloth.me
-timezone: Europe/London
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: single
-    author_profile: true
-    read_time: true
-    comments: 
-    share: true
-    related: true
-remote_theme: mmistakes/minimal-mistakes@4.22.0
-minimal_mistakes_skin: dark
-locale: en-GB
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+# theme                  : "minimal-mistakes-jekyll"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-GB"
+title: "dafuloth.me"
 title_separator: " :: "
-name: David Thai
-description: dafuloth.me is my personal blog, built on the Minimal Mistakes theme
-  by Michael Rose.
-url: https://dafuloth.me
-baseurl: 
-repository: dafuloth/dafuloth.github.io
-teaser: 
-logo: 
-masthead_title: 
+name: "David Thai"
+description:
+    "dafuloth.me is my personal blog, built on the Minimal Mistakes theme
+    by Michael Rose."
+url: "https://dafuloth.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "dafuloth/dafuloth.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
 breadcrumbs: true
 words_per_minute: 200
 comments:
-  provider: disqus
-  disqus:
-    shortname: dafuloth
-  discourse:
-    server: 
-  facebook:
-    appid: 
-    num_posts: 
-    colorscheme: 
-  utterances:
-    theme: 
-    issue_term: 
+    provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+    disqus:
+        shortname: "dafuloth" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    discourse:
+        server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    facebook:
+        # https://developers.facebook.com/docs/plugins/comments
+        appid:
+        num_posts: # 5 (default)
+        colorscheme: # "light" (default), "dark"
+    utterances:
+        theme: # "github-light" (default), "github-dark"
+        issue_term: # "pathname" (default)
 staticman:
-  allowedFields: 
-  branch: 
-  commitMessage: 
-  filename: 
-  format: 
-  moderation: 
-  path: 
-  requiredFields: 
-  transforms:
-    email: 
-  generatedFields:
-    date:
-      type: 
-      options:
-        format: 
-  endpoint: 
+    allowedFields: # ['name', 'email', 'url', 'message']
+    branch: # "master"
+    commitMessage: # "New comment by {fields.name}"
+    filename: # comment-{@timestamp}
+    format: # "yml"
+    moderation: # true
+    path: # "/_data/comments/{options.slug}" (default)
+    requiredFields: # ['name', 'email', 'message']
+    transforms:
+        email: # "md5"
+    generatedFields:
+        date:
+            type: # "date"
+            options:
+                format: # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+    endpoint: # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
-  siteKey: 
-  secret: 
+    siteKey:
+    secret:
 atom_feed:
-  path: 
-search: true
-search_full_content: 
-search_provider: 
+    path: # blank (default) uses feed.xml
+search: true # true, false (default)
+search_full_content: # true, false (default)
+search_provider: # lunr (default), algolia, google
 algolia:
-  application_id: 
-  index_name: 
-  search_only_api_key: 
-  powered_by: 
+    application_id: # YOUR_APPLICATION_ID
+    index_name: # YOUR_INDEX_NAME
+    search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+    powered_by: # true (default), false
 google:
-  search_engine_id: 
-  instant_search: 
-google_site_verification: 
-bing_site_verification: 
-yandex_site_verification: 
-naver_site_verification: 
+    search_engine_id: # YOUR_SEARCH_ENGINE_ID
+    instant_search: # false (default), true
+# SEO Related
+google_site_verification:
+bing_site_verification:
+yandex_site_verification:
+naver_site_verification:
+
+# Social Sharing
 twitter:
-  username: dafuloth
+    username: "dafuloth"
 facebook:
-  username: 
-  app_id: 
-  publisher: 
-og_image: 
+    username:
+    app_id:
+    publisher:
+og_image: # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type: 
-  name: 
-  links: 
+    type: # Person or Organization (defaults to Person)
+    name: # If the user or organization name differs from the site's name
+    links: # An array of links to social media profiles
+
+# Analytics
 analytics:
-  provider: google
-  google:
-    tracking_id: UA-50002010-2
-    anonymize_ip: false
+    provider: "google" # false (default), "google", "google-universal", "custom"
+    google:
+        tracking_id: "UA-50002010-2"
+        anonymize_ip: false # true, false (default)
+
+# Site Author
 author:
-  name: David Thai
-  avatar: "/assets/images/infinity.png"
-  bio: A simple site where I can focus on what matters
-  location: London, UK
-  email: 
-  links:
-  - label: dafuloth.me
-    icon: fas fa-fw fa-link
-    url: https://dafuloth.me
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
-    url: https://twitter.com/dafuloth
-  - label: Last.fm
-    icon: fab fa-fw fa-lastfm-square
-    url: https://www.last.fm/user/ethereal_shadow
-  - label: Steam
-    icon: fab fa-fw fa-steam-square
-    url: https://steamcommunity.com/id/ilmarinen
-  - label: dev.to
-    icon: fab fa-fw fa-dev
-    url: https://dev.to/dafuloth
+    name: "David Thai"
+    avatar: "/assets/images/infinity.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+    bio: "A simple site where I can focus on what matters"
+    location: "London, UK"
+    email:
+    links:
+        - label: "dafuloth.me"
+          icon: "fas fa-fw fa-link"
+          url: "https://dafuloth.me"
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
+          url: "https://twitter.com/dafuloth"
+        - label: "Last.fm"
+          icon: "fab fa-fw fa-lastfm-square"
+          url: "https://www.last.fm/user/ethereal_shadow"
+        - label: "Steam"
+          icon: "fab fa-fw fa-steam-square"
+          url: "https://steamcommunity.com/id/ilmarinen"
+        - label: "dev.to"
+          icon: "fab fa-fw fa-dev"
+          url: "https://dev.to/dafuloth"
+
+# Site Footer
 footer:
-  links:
-  - label: Twitter
-    icon: fab fa-fw fa-twitter-square
+    links:
+        - label: "Twitter"
+          icon: "fab fa-fw fa-twitter-square"
+
+# Reading Files
 include:
-- ".htaccess"
-- _pages
+    - .htaccess
+    - _pages
 exclude:
-- "*.sublime-project"
-- "*.sublime-workspace"
-- vendor
-- ".asset-cache"
-- ".bundle"
-- ".jekyll-assets-cache"
-- ".sass-cache"
-- assets/js/plugins
-- assets/js/_main.js
-- assets/js/vendor
-- Capfile
-- CHANGELOG
-- config
-- Gemfile
-- Gruntfile.js
-- gulpfile.js
-- LICENSE
-- log
-- node_modules
-- package.json
-- Rakefile
-- README
-- tmp
-- "/docs"
-- "/test"
+    - "*.sublime-project"
+    - "*.sublime-workspace"
+    - vendor
+    - .asset-cache
+    - .bundle
+    - .jekyll-assets-cache
+    - .sass-cache
+    - assets/js/plugins
+    - assets/js/_main.js
+    - assets/js/vendor
+    - Capfile
+    - CHANGELOG
+    - config
+    - Gemfile
+    - Gruntfile.js
+    - gulpfile.js
+    - LICENSE
+    - log
+    - node_modules
+    - package.json
+    - Rakefile
+    - README
+    - tmp
+    - /docs # ignore Minimal Mistakes /docs
+    - /test # ignore Minimal Mistakes /test
 keep_files:
-- ".git"
-- ".svn"
-encoding: utf-8
-markdown_ext: markdown,mkdown,mkdn,mkd,md
+    - .git
+    - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+# Markdown Processing
 kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+    input: GFM
+    hard_wrap: false
+    auto_ids: true
+    footnote_nr: 1
+    entity_output: as_char
+    toc_levels: 1..6
+    smart_quotes: lsquo,rsquo,ldquo,rdquo
+    enable_coderay: false
+
+# Sass/SCSS
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
 permalink: "/:categories/:year:month:day-:title/"
 paginate: 3
-paginate_path: "/page:num/"
+paginate_path: /page:num/
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins (previously gems:)
 plugins:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-- jemoji
-- jekyll-include-cache
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
 whitelist:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-- jemoji
-- jekyll-include-cache
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-include-cache
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
-  path: "/categories/"
+    type: liquid
+    path: /categories/
 tag_archive:
-  type: liquid
-  path: "/tags/"
+    type: liquid
+    path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+# HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
-  clippings: all
-  ignore:
-    envs: development
+    clippings: all
+    ignore:
+        envs: development
+
+# Defaults
+defaults:
+    # _posts
+    - scope:
+          path: ""
+          type: posts
+      values:
+          layout: single
+          author_profile: true
+          read_time: true
+          comments: # true
+          share: true
+          related: true

@@ -48,6 +48,6 @@ I really hope that the stock unavailability of the Elite Straps is because Oculu
 
 The Oculus Quest 2 is an amazing bit of tech that's been let down by poor design in non-tech related areas. It's like a car designed with the best engine, and the best tech, but without enough thought into everything else.
 
-Overall I don't regret my purchase of the Quest 2 but if there's one thing I would have done differently it's that I would either go for an alternative solution to counterbalance the front-heavy headset, or buy the Elite Strap from somewhere else - either John Lewis, or even Amazon - so that if it breaks within the warranty period, I could have got a refund more easily.
+Overall I don't regret my purchase of the Quest 2 but if there's one thing I would have done differently it's that I would have sought an alternative solution to counterbalance the front-heavy headset, or I would've bought the Elite Strap from somewhere else - maybe John Lewis, or even Amazon - so that if it breaks within the warranty period, I could have got a refund more easily.
 
-If I had known about [VR Balance](https://vrbalance.net/) before I bought my Elite Strap directly from Oculus, I might have gone for that. I still might.
+If I had known about [VR Balance](https://vrbalance.net/) before I bought my Elite Strap directly from Oculus, I might have gone for that instead. I still might.

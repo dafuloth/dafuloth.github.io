@@ -36,8 +36,6 @@ The issue with the strap does not end with the Elite Strap either. My Elite Stra
 
 ![image showing snapped Elite Strap](/assets/uploads/quest-2-elite-strap-broken.jpg "Non-optional elite strap is not durable...")
 
-
-
 Oculus responded to widespread complaints about Elite Straps snapping by extending the warranty to two years.
 
 I had bought mine directly from Oculus, expecting better service that way. I was wrong about that. They have refused to give me a refund because it's after 30 days. Instead I'll be getting a replacement. The kicker is that they do not have stock available at the moment. So I have to wait, and I'm back to using the original strap.

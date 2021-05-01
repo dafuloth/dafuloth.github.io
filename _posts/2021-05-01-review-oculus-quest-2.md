@@ -28,13 +28,15 @@ The latest graphics card I have access to is the NVIDIA GeForce GTX 1060 Mobile,
 
 My main complaint is to do with the ergonomics. The headset is very front-heavy and can quickly become uncomfortable with the included strap, unless I miraculously have it exactly right.
 
-![image showing snapped Elite Strap](/assets/uploads/quest-2-elite-strap-broken.jpg "Non-optional elite strap is not durable...")
-
 Oculus also sells an Elite Strap that is easier to adjust and is more comfortable. After little more than a week I caved and shelled out for the Elite Strap (with battery), and with it I was having a much better time in VR. In my view, the Elite Strap is not an optional accessory.
 
 This issue must either be down to bad design or a deliberate choice to make you spend more on the headset - i.e. sell the headset at a low price but design it so that if you want to be comfortable, then you have to buy the "Elite Strap".
 
 The issue with the strap does not end with the Elite Strap either. My Elite Strap with Battery snapped after less than four months, and I'm not alone. The Elite Strap has been plagued with defects since its launch.
+
+![image showing snapped Elite Strap](/assets/uploads/quest-2-elite-strap-broken.jpg "Non-optional elite strap is not durable...")
+
+
 
 Oculus responded to widespread complaints about Elite Straps snapping by extending the warranty to two years.
 

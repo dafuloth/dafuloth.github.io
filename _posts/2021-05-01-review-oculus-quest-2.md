@@ -40,7 +40,7 @@ Oculus responded to widespread complaints about Elite Straps snapping by extendi
 
 I had bought mine directly from Oculus, expecting better service that way. I was wrong about that. They have refused to give me a refund because it's after 30 days. Instead I'll be getting a replacement. The kicker is that they do not have stock available at the moment. So I have to wait, and I'm back to using the original strap.
 
-Good thing my warranty is extended, huh? While I'm waiting and don't have use of the Elite Strap but still running down the warranty.
+So I'm waiting and don't have use of the Elite Strap, and yet stilI running down the warranty. Good thing it's extended, huh? 
 
 I really hope that the stock unavailability of the Elite Straps is because Oculus is actually trying to fix the design and/or their manufacturing processes.
 

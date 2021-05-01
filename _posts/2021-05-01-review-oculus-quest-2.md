@@ -18,9 +18,9 @@ My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 i
 
 # The good
 
-At this point I've completed three games: Red Matter, The Room VR: A Dark Matter, and most recently Tokyo Chronos. All grabbed when they were the Oculus daily deals or if I had a discount code.
+At this point I've completed three games: *Red Matter*, *The Room VR: A Dark Matter*, and most recently *Tokyo Chronos*. All grabbed when they were the Oculus daily deals or if I had a discount code.
 
-I have not been disappointed. VR is great for immersion. I love escape room games (hence Red Matter and The Room) which work really well with immersive VR. For a visual novel like Tokyo Chronos, it really makes you feel part of the story.
+I have not been disappointed. VR is great for immersion. I love escape room games (hence *Red Matter* and *The Room*) which work really well with immersive VR. For a visual novel like *Tokyo Chronos*, it really makes you feel part of the story.
 
 I was never much into the idea of tethered VR, and now with Oculus Air Link I can use the Quest 2 for PCVR without being connected by USB. I did consider getting the Oculus Link cable but I'm glad I didn't (saving myself the £89!) because there's plenty enough to do with just the standalone HMD, and I've got Air Link for any of the minimal PCVR I may want to do.
 

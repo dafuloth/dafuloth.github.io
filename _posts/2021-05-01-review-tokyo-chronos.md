@@ -13,7 +13,7 @@ tags:
   - vr
 comments: true
 ---
-![Tokyo Chronos box art](/assets/uploads/tokyo_chronos-cover.png "Tokyo Chronos"){: .align-center}
+![Tokyo Chronos box art](/assets/uploads/tokyo_chronos-cover.png "Tokyo Chronos")
 
 One thing I've done during this Bank Holiday weekend is to finally finish *Tokyo Chronos*. It's amazing. Playing it on and off, I have finally completed the game over a period of about three months, seeing all the endings and unlocking the true ending.
 

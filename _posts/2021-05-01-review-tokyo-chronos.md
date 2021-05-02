@@ -25,7 +25,7 @@ comments: true
 
 ## Not everyone's cup of tea
 
-*Tokyo Chronos* is a visual novel so you don't play it the way you would an action game or RPG. Unlike the former, the latter is less about you and entirely about the story - which you may or may not be able to relate to.
+*Tokyo Chronos* is a visual novel so you don't play it the way you would an action game or RPG.
 
 Like how you would play (watch) a movie or play (listen) to music, playing (reading) a visual novel it's all about the experience, what it makes you think, and how it makes you feel.
 
@@ -37,10 +37,20 @@ I'm not that familiar with visual novels. I think I've played a little *Ace Atto
 
 Still, I think it's introduced me to some of the conventions of visual novels, or at least the conventions of a specific genre of visual novel. Either way, you have to play through it multiple times to unlock different endings, which in the end allow you to unlock a true ending.
 
-## An amazing story
+## Great gameplay
 
+The overall story is deep and thought-provoking. Maybe I'm just sentimental and a softy but I swear I got teary-eyed several times while playing. Although this game is two years old, I'm still hesitant to say too much in case I spoil it for anyone reading this who hasn't played it yet. I feel that the story is so good, and that everyone should be able to experience it all for themselves.
 
+This game is marketed as a "*VR Mystery Visual Novel*" so let's start there. So something has happened, and playing through the game, you will learn about the different experiences of all the characters and piece together the whole story.
+
+The trailer and cover has the tag line ***I am dead. Who killed me?*** So this is a *whodunnit* story and you will discover who the victim is and who killed them.
+
+So far, so obvious.
+
+The story is good because because there is a twist that makes it not entirely obvious. Perhaps predictably, because this *is* a game, the story does ultimately revolve around your character.
+
+If you are at all partial to a good story, then trust me, it will is worth you getting through all the downer-endings to unlock the true happy ending.
 
 ## Verdict
 
-Tokyo Chronos is one of the premium titles, going by the price tiers in the Oculus store, and I think justifiably so considering that it's fully voice-acted (albeit in Japanese). My sole criticism, and this just nitpicking, is that there are a lot of spelling mistakes in the English subtitles - but this doesn't affect comprehension of the text or detract from the overall experience.
+Tokyo Chronos is one of the premium titles, going by the price tiers in the Oculus store, and I think justifiably so considering that it's fully voice-acted (albeit in Japanese). My sole criticism is that there are a lot of spelling mistakes in the English subtitles. That's kind of just nitpicking, since it didn't affect my comprehension of the subtitles or detract from my overall experience.

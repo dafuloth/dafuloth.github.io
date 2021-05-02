@@ -11,13 +11,15 @@ categories:
 tags:
   - games
   - vr
+excerpt: One thing I've done during this Bank Holiday weekend is to finally
+  finish *Tokyo Chronos*. It's amazing. Playing it on and off, I have finally
+  completed the game over a period of about three months, seeing all the endings
+  and unlocking the true ending.
 comments: true
 ---
-One thing I've done during this Bank Holiday weekend is to finally finish *Tokyo Chronos*. It's amazing. Playing it on and off, I have finally completed the game over a period of about three months, seeing all the endings and unlocking the true ending.
-
 ![Tokyo Chronos box art](/assets/uploads/tokyo_chronos-cover.png "Tokyo Chronos")
 
-The game is a visual novel so you don't play it in the way you would an action game or RPG. Unlike the former, the latter is less about you and entirely about the story - which you may or may not be able to relate to.
+Tokyo Chronos is a visual novel so you don't play it in the way you would an action game or RPG. Unlike the former, the latter is less about you and entirely about the story - which you may or may not be able to relate to.
 
 Like how you would play (watch) a movie or play (listen) to music, playing (reading) a visual novel it's all about the experience, what it makes you think, and how it makes you feel.
 

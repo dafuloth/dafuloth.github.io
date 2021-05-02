@@ -16,7 +16,7 @@ comments: true
 ---
 My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 is the real deal. After 4 months I confidently say it is worth it, and exceeds expectations.
 
-# The good
+## The good
 
 ![My first three VR games were Red Matter, The Room VR, and Tokyo Chronos](/assets/uploads/red-matter_the-room-vr_tokyo-chronos_shorter.png "Adventures in VR: Red Matter, The Room VR, Tokyo Chronos (source: oculus.com)")
 
@@ -30,7 +30,7 @@ And rather than the headset being merely a peripheral for a VR-capable PC, the Q
 
 The latest graphics card I have access to is the NVIDIA GeForce GTX 1060 Mobile, which is barely VR capable by today's standards - but it's fine for older games or games with low spec requirements. It won't be the main engine for my VR experience but it's there if I want it.
 
-# The bad and really bad
+## The bad and really bad
 
 My main complaint is to do with the ergonomics. The headset is very front-heavy and can quickly become uncomfortable with the included strap, unless I miraculously have it exactly right.
 
@@ -50,7 +50,7 @@ So I'm waiting and don't have use of the Elite Strap, and yet stilI running down
 
 I really hope that the stock unavailability of the Elite Straps is because Oculus is actually trying to fix the design and/or their manufacturing processes.
 
-# Conclusion
+## Conclusion
 
 The Oculus Quest 2 is an amazing bit of tech that's been let down by poor design in non-tech related areas. It's like a car designed with the best engine, and the best tech, but without enough thought into everything else.
 

@@ -2,6 +2,7 @@
 layout: single
 toc: true
 toc_icon: "cog"
+toc_sticky: true
 author_profile: true
 read_time: true
 share: true
@@ -9,22 +10,23 @@ related: true
 title: "REVIEW: Oculus Quest 2"
 date: 2021-05-01T08:21:02.604Z
 categories:
-  - reviews
-  - tech
+    - reviews
+    - tech
 tags:
-  - oculus
-  - quest 2
+    - oculus
+    - quest 2
 comments: true
 ---
+
 My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 is the real deal. After 4 months I confidently say it is worth it, and exceeds expectations.
 
 ## The good
 
 ![My first three VR games were Red Matter, The Room VR, and Tokyo Chronos](/assets/uploads/red-matter_the-room-vr_tokyo-chronos_shorter.png "Adventures in VR: Red Matter, The Room VR, Tokyo Chronos (source: oculus.com)")
 
-At this point I've completed three games: *Red Matter*, *The Room VR: A Dark Matter*, and most recently *Tokyo Chronos*. All grabbed when they were Oculus daily deals or if I had a discount code.
+At this point I've completed three games: _Red Matter_, _The Room VR: A Dark Matter_, and most recently _Tokyo Chronos_. All grabbed when they were Oculus daily deals or if I had a discount code.
 
-I have not been disappointed. VR is great for immersion. I love escape room games (hence *Red Matter* and *The Room*) which work really well as immersive VR. For a visual novel like *Tokyo Chronos*, it really makes you feel part of the story, and it really does feel like you're in an anime.
+I have not been disappointed. VR is great for immersion. I love escape room games (hence _Red Matter_ and _The Room_) which work really well as immersive VR. For a visual novel like _Tokyo Chronos_, it really makes you feel part of the story, and it really does feel like you're in an anime.
 
 I was never much into the idea of tethered VR, and now with Oculus Air Link I can use the Quest 2 for PCVR without being connected by USB. I did consider getting the Oculus Link cable but I'm glad I didn't (saving myself the £89!) because there's plenty enough to do with just the standalone HMD, and I've got Air Link for any of the minimal PCVR I may want to do.
 
@@ -48,7 +50,7 @@ Oculus responded to widespread complaints about Elite Straps snapping by extendi
 
 I had bought mine directly from Oculus, expecting better service that way. I was wrong about that. They have refused to give me a refund because it's after 30 days. Instead I'll be getting a replacement. The kicker is that they do not have stock available at the moment. So I have to wait, and I'm back to using the original strap.
 
-So I'm waiting and don't have use of the Elite Strap, and yet stilI running down the warranty. Good thing it's extended, huh? 
+So I'm waiting and don't have use of the Elite Strap, and yet stilI running down the warranty. Good thing it's extended, huh?
 
 I really hope that the stock unavailability of the Elite Straps is because Oculus is actually trying to fix the design and/or their manufacturing processes.
 

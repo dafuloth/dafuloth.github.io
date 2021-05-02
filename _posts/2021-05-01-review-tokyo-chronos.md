@@ -35,4 +35,4 @@ I'm not that familiar with visual novels. I think I've played a little Ace Attor
 
 Still, I think it's introduced me to some of the conventions of visual novels, or at least the conventions of a specific genre of visual novel. Either way, you have to play through it multiple times to unlock different endings, which in the end allow you to unlock a true ending.
 
-Tokyo Chronos is one of the premium titles, going by the pricing tiers in the Oculus store, and I think justifiably so considering that it's fully voice-acted (albeit in Japanese). My sole criticism, and this just nitpicking, is that there are a lot of spelling mistakes in the English subtitles - but this doesn't affect comprehension of the text or detract from the overall experience.
+Tokyo Chronos is one of the premium titles, going by the price tiers in the Oculus store, and I think justifiably so considering that it's fully voice-acted (albeit in Japanese). My sole criticism, and this just nitpicking, is that there are a lot of spelling mistakes in the English subtitles - but this doesn't affect comprehension of the text or detract from the overall experience.

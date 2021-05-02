@@ -54,4 +54,4 @@ If you are at all partial to a good story, then trust me, it is well worth getti
 
 ## Verdict
 
-Tokyo Chronos is one of the premium titles, going by the price tiers in the Oculus store, and I think justifiably so considering that it's fully voice-acted (albeit in Japanese). My sole criticism is that there are a lot of spelling mistakes in the English subtitles. That's kind of just nitpicking, since it didn't affect my comprehension of the subtitles or detract from my overall experience.
+*Tokyo Chronos* is one of the premium titles, going by the price tiers in the Oculus store, and I think justifiably so considering that it's fully voice-acted (albeit in Japanese). My sole criticism is that there are a lot of spelling mistakes in the English subtitles. That's kind of just nitpicking, since it didn't affect my comprehension of the subtitles or detract from my overall experience.

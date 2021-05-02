@@ -50,7 +50,7 @@ So far, so obvious.
 
 The story is good because because there is a twist that makes it not entirely obvious. Perhaps predictably, because this _is_ a game, the story does ultimately revolve around your character.
 
-If you are at all partial to a good story, then trust me, it will is worth you getting through all the downer-endings to unlock the true happy ending.
+If you are at all partial to a good story, then trust me, it is well worth getting through all the downer-endings to unlock the true happy ending.
 
 ## Verdict
 

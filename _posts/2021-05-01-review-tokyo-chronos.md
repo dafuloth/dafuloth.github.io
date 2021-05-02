@@ -13,7 +13,7 @@ tags:
   - vr
 comments: true
 ---
-
+![Tokyo Chronos box art](/assets/uploads/tokyo_chronos-cover.png "Tokyo Chronos"){: .align-center}
 
 One thing I've done during this Bank Holiday weekend is to finally finish *Tokyo Chronos*. It's amazing. Playing it on and off, I have finally completed the game over a period of about three months, seeing all the endings and unlocking the true ending.
 
@@ -23,10 +23,10 @@ Like how you would play (watch) a movie or play (listen) to music, playing (read
 
 On the Oculus store page, some of the negative reviews seem to be from people who did not find the kind of game they were expecting, i.e. a typical action/adventure game. In my book, I would say a game is any kind of interactive media where you can make choices to affect the outcome.
 
-Perhaps it might help to think of Tokyo Chronos not as a videogame but as interactive fiction. Growing up, I used to love choose-your-own-adventure gamebooks, which were books that you could play by reading them. I was especially fond of the Fighting Fantasy series by Steve Jackson
+Perhaps it might help to think of Tokyo Chronos not as a videogame but as interactive fiction. Growing up, I used to love choose-your-own-adventure gamebooks, which were books that you could play by reading them. I was especially fond of the *Fighting Fantasy* series by Steve Jackson, and the *Lone Wolf* series by Joe Dever. These days I still read Lone Wolf, because they are officially available for free online.
 
-I'm not that familiar with visual novels. My first and only experience of the medium prior to *Tokyo Chronos* was *Doki Doki Literature Club.* DDLC only uses the format and mechanics of visual novels for its gameplay but it's *actually not your typical visual novel.* 
+I'm not that familiar with visual novels. I think I've played a little Ace Attorney but my first real experience of visual novels prior to *Tokyo Chronos* was *Doki Doki Literature Club.* DDLC only uses the format and mechanics of visual novels for its gameplay but it's *actually not your typical visual novel.* 
 
-Still, it introduced me to some of the conventions of visual novels, or maybe just the conventions of a particular genre of visual novel. You have to play through it multiple times to unlock different endings, which in the end allow you to unlock a true ending.
+Still, I think it's introduced me to some of the conventions of visual novels, or at least the conventions of a specific genre of visual novel. Either way, you have to play through it multiple times to unlock different endings, which in the end allow you to unlock a true ending.
 
 Tokyo Chronos is

@@ -18,7 +18,7 @@ My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 i
 
 # The good
 
-![My first three VR games were Red Matter, The Room VR, and Tokyo Chronos](/assets/uploads/red-matter_the-room-vr_tokyo-chronos.png "Adventures in VR: Red Matter, The Room VR, Tokyo Chronos (source: oculus.com)")
+![My first three VR games were Red Matter, The Room VR, and Tokyo Chronos](/assets/uploads/red-matter_the-room-vr_tokyo-chronos_shorter.png "Adventures in VR: Red Matter, The Room VR, Tokyo Chronos (source: oculus.com)")
 
 At this point I've completed three games: *Red Matter*, *The Room VR: A Dark Matter*, and most recently *Tokyo Chronos*. All grabbed when they were Oculus daily deals or if I had a discount code.
 

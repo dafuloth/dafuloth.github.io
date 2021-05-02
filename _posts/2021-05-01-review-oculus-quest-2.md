@@ -1,5 +1,7 @@
 ---
 layout: single
+toc: true
+toc_icon: "cog"
 author_profile: true
 read_time: true
 share: true
@@ -50,7 +52,7 @@ So I'm waiting and don't have use of the Elite Strap, and yet stilI running down
 
 I really hope that the stock unavailability of the Elite Straps is because Oculus is actually trying to fix the design and/or their manufacturing processes.
 
-## Conclusion
+## Verdict
 
 The Oculus Quest 2 is an amazing bit of tech that's been let down by poor design in non-tech related areas. It's like a car designed with the best engine, and the best tech, but without enough thought into everything else.
 

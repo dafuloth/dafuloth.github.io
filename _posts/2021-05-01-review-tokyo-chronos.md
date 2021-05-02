@@ -1,5 +1,7 @@
 ---
 layout: single
+toc: true
+toc_icon: "cog"
 author_profile: true
 read_time: true
 share: true

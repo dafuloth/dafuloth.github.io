@@ -57,6 +57,16 @@ collections:
         }
       - { label: "Categories", name: "categories", widget: "list" }
       - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Intro (excerpt)", name: "excerpt", widget: "markdown" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Comments", name: "comments", widget: "boolean" }
+      - {
+          label: "Intro (excerpt)",
+          name: "excerpt",
+          widget: "markdown",
+          default: "",
+        }
+      - { label: "Body", name: "body", widget: "markdown", default: "" }
+      - {
+          label: "Comments",
+          name: "comments",
+          widget: "boolean",
+          default: true,
+        }

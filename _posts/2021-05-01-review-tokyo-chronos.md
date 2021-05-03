@@ -29,7 +29,7 @@ Of the three VR games I've played since I got my Quest 2, this one has taken the
 
 _Tokyo Chronos_ is a visual novel so you don't play it the way you would an action game or RPG.
 
-Like how you would play (watch) a movie or play (listen) to music, playing (reading) a visual novel it's all about the experience, what it makes you think, and how it makes you feel.
+Like how you would play (watch) a movie or play (listen) to music, playing (reading) a visual novel is all about the experience, what it makes you think, and how it makes you feel.
 
 On the Oculus store page, some of the negative reviews seem to be from people who did not find the kind of game they were expecting, i.e. a typical action/adventure game. In my book, I would say a game is any kind of interactive media where you can make choices to affect the outcome.
 

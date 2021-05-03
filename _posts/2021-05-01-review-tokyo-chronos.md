@@ -1,7 +1,6 @@
 ---
 layout: single
 toc: true
-toc_icon: "cog"
 toc_sticky: true
 author_profile: true
 read_time: true

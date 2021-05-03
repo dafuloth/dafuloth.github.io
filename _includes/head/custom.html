@@ -32,6 +32,10 @@
 
 <!-- add netlify identity -->
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
 
-
+    if (location.pathname !== 'admin' && location.hostname === 'dafuloth.netlify.app') {
+        location.replace(`https://dafuloth.me${location.pathname}`);
+    }
+</script>
 <!-- end custom head snippets -->

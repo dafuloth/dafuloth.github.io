@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<script>
-    if (location.hostname === ('dafuloth.netlify.app')) {
-        location.replace(`https://dafuloth.me${location.pathname}`);
-    }
-</script>
-
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}

@@ -20,8 +20,7 @@ title: "dafuloth.me"
 title_separator: " :: "
 name: "David Thai"
 description:
-    "dafuloth.me is my personal blog, built on the Minimal Mistakes theme
-    by Michael Rose."
+    "I am David Thai, a software engineer based in London and dafuloth.me is my personal blog."
 url: "https://dafuloth.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "dafuloth/dafuloth.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

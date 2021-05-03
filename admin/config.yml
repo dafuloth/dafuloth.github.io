@@ -17,6 +17,18 @@ collections:
                 default: "single",
             }
           - {
+                label: "Table of Contents",
+                name: "toc",
+                widget: "hidden",
+                default: "true",
+            }
+          - {
+                label: "Sticky Table of Contents",
+                name: "toc_sticky",
+                widget: "hidden",
+                default: "true",
+            }            
+          - {
                 label: "Author Profile",
                 name: "author_profile",
                 widget: "hidden",

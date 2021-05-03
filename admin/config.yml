@@ -1,56 +1,62 @@
 backend:
-    name: git-gateway
-    branch: master # Branch to update (optional; defaults to master)
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: "assets/uploads" # Media files will be stored in the repo under assets/uploads
 collections:
-    - name: "posts" # Used in routes, e.g., /admin/collections/blog
-      label: "Posts" # Used in the UI
-      folder: "_posts" # The path to the folder where the documents are stored
-      create: true # Allow users to create new documents in this collection
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-      fields: # The fields for each document, usually in front matter
-          # - {
-          #       label: "Layout",
-          #       name: "layout",
-          #       widget: "hidden",
-          #       default: "single",
-          #   }
-          - {
-                label: "Table of Contents",
-                name: "toc",
-                widget: "boolean",
-                default: "true",
-            }
-          # - {
-          #       label: "Sticky Table of Contents",
-          #       name: "toc_sticky",
-          #       widget: "hidden",
-          #       default: "true",
-          #   }            
-          - {
-                label: "Author Profile",
-                name: "author_profile",
-                widget: "boolean",
-                default: true,
-            }
-          # - {
-          #       label: "Read-time",
-          #       name: "read_time",
-          #       widget: "hidden",
-          #       default: true,
-          #   }
-          - { label: "Share", name: "share", widget: "boolean", default: true }
-          - {
-                label: "Show related",
-                name: "related",
-                widget: "boolean",
-                default: true,
-            }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Publish Date", name: "date", widget: "datetime", date_format: "DD/MM/YYYY", time_format: "HH:mm" }
-          - { label: "Categories", name: "categories", widget: "list" }
-          - { label: "Tags", name: "tags", widget: "list" }
-          - { label: "Intro (excerpt)", name: "excerpt", widget: "markdown" }
-          - { label: "Body", name: "body", widget: "markdown" }
-          - { label: "Comments", name: "comments", widget: "boolean" }
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Posts" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {
+      #       label: "Layout",
+      #       name: "layout",
+      #       widget: "hidden",
+      #       default: "single",
+      #   }
+      - {
+          label: "Table of Contents",
+          name: "toc",
+          widget: "boolean",
+          default: "true",
+        }
+      # - {
+      #       label: "Sticky Table of Contents",
+      #       name: "toc_sticky",
+      #       widget: "hidden",
+      #       default: "true",
+      #   }
+      - {
+          label: "Author Profile",
+          name: "author_profile",
+          widget: "boolean",
+          default: true,
+        }
+      # - {
+      #       label: "Read-time",
+      #       name: "read_time",
+      #       widget: "hidden",
+      #       default: true,
+      #   }
+      - { label: "Share", name: "share", widget: "boolean", default: true }
+      - {
+          label: "Show related",
+          name: "related",
+          widget: "boolean",
+          default: true,
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "DD/MM/YYYY",
+          time_format: "HH:mm",
+        }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Intro (excerpt)", name: "excerpt", widget: "markdown" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Comments", name: "comments", widget: "boolean" }

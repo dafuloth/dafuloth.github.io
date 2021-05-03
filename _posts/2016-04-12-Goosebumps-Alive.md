@@ -1,4 +1,5 @@
 ---
+toc: false
 title: 'REVIEW: Goosebumps Alive'
 date: 2016-04-12 00:00:00 Z
 published: false

@@ -1,4 +1,5 @@
 ---
+toc: false
 title: Google Drive misbehaves when sync folder is on a NAS
 date: 2016-01-09 00:00:00 Z
 categories:

@@ -1,4 +1,5 @@
 ---
+toc: false
 title: Failing Faster
 date: 2018-05-18 00:00:00 Z
 categories:

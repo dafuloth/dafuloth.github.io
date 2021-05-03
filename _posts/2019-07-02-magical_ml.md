@@ -1,4 +1,5 @@
 ---
+toc: false
 title: Magical Machine Learning
 date: 2019-07-02 00:00:00 +01:00
 categories:

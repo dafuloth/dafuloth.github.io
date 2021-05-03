@@ -1,4 +1,5 @@
 ---
+toc: false
 title: Jekyll Static Sites and the Search for a CMS
 date: 2018-09-28 00:55:00 +01:00
 categories:

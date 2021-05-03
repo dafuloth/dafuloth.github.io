@@ -1,4 +1,5 @@
 ---
+toc: false
 title: Thoughts on the TV License
 date: 2016-08-10 00:00:00 Z
 categories:

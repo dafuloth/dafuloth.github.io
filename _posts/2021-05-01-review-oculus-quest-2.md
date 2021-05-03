@@ -14,6 +14,8 @@ categories:
 tags:
     - oculus
     - quest 2
+    - virtual reality
+    - vr
 comments: true
 ---
 

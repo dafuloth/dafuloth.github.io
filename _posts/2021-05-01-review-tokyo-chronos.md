@@ -32,15 +32,21 @@ On the Oculus store page, some of the negative reviews seem to be from people wh
 
 Perhaps it might help to think of _Tokyo Chronos_ not as a videogame but as interactive fiction. Growing up, I used to love choose-your-own-adventure gamebooks, which were books that you could play by reading them. I was especially fond of the _Fighting Fantasy_ series by Steve Jackson, and the _Lone Wolf_ series by Joe Dever. I still read _Lone Wolf_, because they are officially available for free online.
 
-I'm not that familiar with visual novels. I think I've played a little _Ace Attorney_ but my first real experience of visual novels prior to _Tokyo Chronos_ was _Doki Doki Literature Club._ DDLC only uses the format and mechanics of visual novels for its gameplay but it's _actually not your typical visual novel._
+> We're on the right track! The TVTropes page [Visual Novel](https://tvtropes.org/pmwiki/pmwiki.php/Main/VisualNovel) mentions [Interactive Fiction](https://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveFiction) and goes on to say:
+>
+> _"Visual novels are effectively seen as a digital evolution of [Gamebooks](https://tvtropes.org/pmwiki/pmwiki.php/Main/Gamebooks), with music, pictures, and occasionally even voice acting or movies."_
 
-Still, I think it's introduced me to some of the conventions of visual novels, or at least the conventions of a specific genre of visual novel. Either way, you have to play through it multiple times to unlock different endings, which in the end allow you to unlock a true ending.
+I'm not that familiar with visual novels. I think I've played a little _Ace Attorney_ but my first real experience of visual novels prior to _Tokyo Chronos_ was _Doki Doki Literature Club._ However, DDLC is really a horror game that uses the format and mechanics of visual novels for its gameplay, so it's _not your typical visual novel_ even if it is outwardly presented as a "dating sim".
+
+Still, I think it's introduced me to some of the conventions of visual novels - or at least the conventions of a specific genre of visual novel. Either way, you have to play through it multiple times to unlock different endings, which in the end allow you to unlock a true ending.
 
 ## Great gameplay
 
 The overall story is deep and thought-provoking. Maybe I'm just sentimental and a softy but I swear I got teary-eyed several times while playing. Although this game is two years old, I'm still hesitant to say too much in case I spoil it for anyone reading this who hasn't played it yet. I feel that the story is so good, and that everyone should be able to experience it all for themselves.
 
 This game is marketed as a "_VR Mystery Visual Novel_" so let's start there. So something has happened, and playing through the game, you will learn about the different experiences of all the characters and piece together the whole story.
+
+_Not all visual novels are dating sims_ (see TVTropes), and _Tokyo Chronos_ is most assuredly **_not_** a dating sim. All the characters have their own meaningful backstories, and there is like only one truly romantic relationship.
 
 The trailer and cover has the tag line **_I am dead. Who killed me?_** So this is a _whodunnit_ story and you will discover who the victim is and who killed them.
 

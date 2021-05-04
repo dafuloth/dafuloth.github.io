@@ -16,7 +16,7 @@ tags:
 comments: true
 ---
 
-One thing I've done during this Bank Holiday weekend is to finally finish _Tokyo Chronos_. It's take about three months of intermittent play to see all the endings and unlock the true ending. But it was worth it!
+One thing I've done during this Bank Holiday weekend is to finally finish _Tokyo Chronos_. It's taken about three months of intermittent play to see all the endings and unlock the true ending. But it was worth it!
 
 Of the three VR games I've played since I got my Quest 2, this one has taken the longest to complete because to get the most out of it, you do actually have to read and understand the story (duh! it's a novel). It's my favourite game I've played so far.
 

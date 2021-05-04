@@ -108,6 +108,7 @@ analytics:
 author:
   name: "David Thai"
   avatar: "/assets/images/infinity.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  home: "http://dafuloth.me"
   bio: "A simple site where I can focus on what matters"
   location: "London, UK"
   email:

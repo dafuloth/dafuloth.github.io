@@ -1,33 +1,33 @@
 ---
-layout: single
-toc: true
 toc_sticky: true
+toc: true
 author_profile: true
-read_time: true
 share: true
 related: true
 title: "REVIEW: Oculus Quest 2"
-date: 2021-05-01T08:21:02.604Z
 categories:
-    - reviews
-    - tech
+  - reviews
+  - tech
 tags:
-    - oculus
-    - quest 2
-    - virtual reality
-    - vr
+  - oculus
+  - quest 2
+  - virtual reality
+  - vr
+excerpt: After nearly 6 months with the Oculus Quest 2. Here are some of my thoughts.
+layout: single
+date: 2021-05-25T19:27:33.271Z
 comments: true
+read_time: true
 ---
-
-My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 is the real deal. After 4 months I confidently say it is worth it, and exceeds expectations.
+My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 is the real deal. After 4 months I confidently say it is worth it and exceeds expectations.
 
 ## The good
 
 ![My first three VR games were Red Matter, The Room VR, and Tokyo Chronos](/assets/uploads/red-matter_the-room-vr_tokyo-chronos_shorter.png "Adventures in VR: Red Matter, The Room VR, Tokyo Chronos (source: oculus.com)")
 
-At this point I've completed three games: _Red Matter_, _The Room VR: A Dark Matter_, and most recently _Tokyo Chronos_. All grabbed when they were Oculus daily deals or if I had a discount code.
+At this point I've completed three games: *Red Matter*, *The Room VR: A Dark Matter*, and most recently *[Tokyo Chronos](<{% post_url 2021-05-01-review-tokyo-chronos %}>)*. All grabbed when they were Oculus daily deals or if I had a discount code.
 
-I have not been disappointed. VR is great for immersion. I love escape room games (hence _Red Matter_ and _The Room_) which work really well as immersive VR. For a visual novel like _Tokyo Chronos_, it really makes you feel part of the story, and it really does feel like you're in an anime.
+I have not been disappointed. VR is great for immersion. I love escape room games (hence *Red Matter* and *The Room*) which work really well as immersive VR. For a visual novel like *Tokyo Chronos*, it really makes you feel part of the story, and it really does feel like you're in an anime.
 
 I was never much into the idea of tethered VR, and now with Oculus Air Link I can use the Quest 2 for PCVR without being connected by USB. I did consider getting the Oculus Link cable but I'm glad I didn't (saving myself the £89!) because there's plenty enough to do with just the standalone HMD, and I've got Air Link for any of the minimal PCVR I may want to do.
 
@@ -39,7 +39,7 @@ The latest graphics card I have access to is the NVIDIA GeForce GTX 1060 Mobile,
 
 My main complaint is to do with the ergonomics. The headset is very front-heavy and can quickly become uncomfortable with the included strap, unless I miraculously have it exactly right.
 
-Oculus also sells an Elite Strap that is easier to adjust and is more comfortable. After little more than a week I caved and shelled out for the Elite Strap (with battery), and with it I was having a much better time in VR. In my view, the Elite Strap is not an optional accessory.
+Oculus also sells an Elite Strap that is easier to adjust and is more comfortable. After little more than a week I caved and shelled out for the Elite Strap (with battery), and with it I was having a much better time in VR. In my view, the Elite Strap is *not* an optional accessory.
 
 This issue must either be down to bad design or a deliberate choice to make you spend more on the headset - i.e. sell the headset at a low price but design it so that if you want to be comfortable, then you have to buy the "Elite Strap".
 
@@ -49,15 +49,17 @@ The issue with the strap does not end with the Elite Strap either. My Elite Stra
 
 Oculus responded to widespread complaints about Elite Straps snapping by extending the warranty to two years.
 
-I had bought mine directly from Oculus, expecting better service that way. I was wrong about that. They have refused to give me a refund because it's after 30 days. Instead I'll be getting a replacement. The kicker is that they do not have stock available at the moment. So I have to wait, and I'm back to using the original strap.
+I had bought mine directly from Oculus, expecting better service that way. I was wrong about that. They have refused to give me a refund because it's after 30 days. In theory, I'll be getting a replacement. The reality is that they do not have stock available at the moment. So I have to wait, and I'm back to using the original strap. 
 
-So I'm waiting and don't have use of the Elite Strap, and yet stilI running down the warranty. Good thing it's extended, huh?
+While I'm waiting and don't have use of my Elite Strap, I am still nevertheless running down the warranty. Good thing it's extended, huh?
 
 I really hope that the stock unavailability of the Elite Straps is because Oculus is actually trying to fix the design and/or their manufacturing processes.
 
+> ***2021-05-25***: *It's been over a month, my support request has been "escalated" twice and passed through four different Oculus Support people, and I am still waiting. Attempts to secure a refund have failed. I would be happier knowing that the delay is due to sourcing of better materials or improving manufacturing processes... but I've received no explanation.*
+
 ## Verdict
 
-The Oculus Quest 2 is an amazing bit of tech that's been let down by poor design in non-tech related areas. It's like a car designed with the best engine, and the best tech, but without enough thought into everything else.
+The Oculus Quest 2 is an amazing bit of tech that's been let down by poor design in non-tech-related areas. It's like a car designed with the best engine, and the best tech, but without enough thought into everything else.
 
 Overall I don't regret my purchase of the Quest 2 but if there's one thing I would have done differently it's that I would have sought an alternative solution to counterbalance the front-heavy headset, or I would've bought the Elite Strap from somewhere else - maybe John Lewis, or even Amazon - so that if it breaks within the warranty period, I could have got a refund more easily.
 

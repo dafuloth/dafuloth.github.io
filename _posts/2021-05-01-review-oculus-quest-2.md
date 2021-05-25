@@ -15,7 +15,7 @@ tags:
   - vr
 excerpt: After nearly 6 months with the Oculus Quest 2. Here are some of my thoughts.
 layout: single
-date: 2021-05-01T19:27:33.271Z
+date: 2021-05-25T20:17:33.459Z
 comments: true
 read_time: true
 ---

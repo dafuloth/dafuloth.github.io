@@ -55,7 +55,7 @@ While I'm waiting and don't have use of my Elite Strap, I am still nevertheless 
 
 I really hope that the stock unavailability of the Elite Straps is because Oculus is actually trying to fix the design and/or their manufacturing processes.
 
-> ***2021-05-25***: *It's been over a month, my support request has been "escalated" twice and passed through four different Oculus Support people, and I am still waiting. Attempts to secure a refund have failed. I would be happier knowing that the delay is due to changing of materials or manufacturing processes... but I've received no explanation.*
+> ***2021-05-25***: *It's been over a month, my support request has been "escalated" twice and passed through four different Oculus Support people, and I am still waiting. Attempts to secure a refund have failed. I would be happier knowing that the delay is due to sourcing of better materials or improving manufacturing processes... but I've received no explanation.*
 
 ## Verdict
 

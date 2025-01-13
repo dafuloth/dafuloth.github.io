@@ -1,9 +1,9 @@
 ---
-toc: false
 title: Talking My Way Out Of An Internship
-date: 2018-08-08 00:00:00 Z
+date: 2018-08-08 01:00:00 +01:00
 categories:
 - blog
+toc: false
 author: David Thai
 ---
 

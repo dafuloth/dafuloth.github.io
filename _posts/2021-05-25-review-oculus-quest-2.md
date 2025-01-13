@@ -1,24 +1,25 @@
 ---
+title: 'REVIEW: Oculus Quest 2'
+date: 2021-05-25 21:17:33 +01:00
+categories:
+- reviews
+- tech
+tags:
+- oculus
+- quest 2
+- virtual reality
+- vr
 toc_sticky: true
 toc: true
 author_profile: true
 share: true
 related: true
-title: "REVIEW: Oculus Quest 2"
-categories:
-  - reviews
-  - tech
-tags:
-  - oculus
-  - quest 2
-  - virtual reality
-  - vr
 excerpt: After nearly 6 months with the Oculus Quest 2. Here are some of my thoughts.
 layout: single
-date: 2021-05-25T20:17:33.459Z
 comments: true
 read_time: true
 ---
+
 My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 is the real deal. After 4 months I confidently say it is worth it and exceeds expectations.
 
 ## The good

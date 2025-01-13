@@ -1,9 +1,9 @@
 ---
-toc: false
 title: Thoughts on the TV License
-date: 2016-08-10 00:00:00 Z
+date: 2016-08-10 01:00:00 +01:00
 categories:
 - blog
+toc: false
 author: David Thai
 comments: true
 ---

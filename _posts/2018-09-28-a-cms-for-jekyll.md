@@ -1,9 +1,9 @@
 ---
-toc: false
 title: Jekyll Static Sites and the Search for a CMS
 date: 2018-09-28 00:55:00 +01:00
 categories:
 - blog
+toc: false
 ---
 
 Jekyll is wonderful. When GitHub Pages launched, it was exactly what I was looking for. What I felt was missing was decent CMS for writing, managing and updating posts.  I found it was awkward having to write, commit and push to GitHub everytime I wanted to post something on my blog. Writing is what I want to do on my blog so it's the only thing I want to focus on. First I tried [Prose](http://prose.io/) but found it too simplistic. Now I'm using [Siteleaf](http://www.siteleaf.com) and I don't think I'll ever want to leave...

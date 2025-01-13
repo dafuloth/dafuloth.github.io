@@ -1,13 +1,13 @@
 ---
-toc: false
 title: 'REVIEW: Goosebumps Alive'
-date: 2016-04-12 00:00:00 Z
+date: 2016-04-12 01:00:00 +01:00
 published: false
 categories:
 - reviews
 tags:
 - goosebumps
 - theatre
+toc: false
 comments: true
 author: David Thai
 ---

@@ -1,9 +1,9 @@
 ---
-toc: false
 title: Failing Faster
-date: 2018-05-18 00:00:00 Z
+date: 2018-05-18 01:00:00 +01:00
 categories:
 - blog
+toc: false
 author: David Thai
 comments: false
 ---

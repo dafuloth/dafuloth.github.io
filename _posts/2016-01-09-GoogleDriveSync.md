@@ -1,7 +1,6 @@
 ---
-toc: false
 title: Google Drive misbehaves when sync folder is on a NAS
-date: 2016-01-09 00:00:00 Z
+date: 2016-01-09 00:00:00 +00:00
 categories:
 - tech
 tags:
@@ -10,6 +9,7 @@ tags:
 - google
 - google drive
 - onedrive
+toc: false
 author: David Thai
 comments: true
 ---

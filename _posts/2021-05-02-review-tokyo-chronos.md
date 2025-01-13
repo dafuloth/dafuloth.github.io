@@ -1,25 +1,25 @@
 ---
+title: 'REVIEW: Tokyo Chronos'
+date: 2021-05-02 10:25:36 +01:00
+categories:
+- reviews
+tags:
+- games
+- vr
 toc_sticky: true
 toc: true
 author_profile: true
 share: true
 related: true
-title: "REVIEW: Tokyo Chronos"
-categories:
-  - reviews
-tags:
-  - games
-  - vr
-excerpt: One thing I've done during this early May Bank Holiday weekend is to
-  finally finish *Tokyo Chronos*. I've been playing it intermittently over a
-  period of about three months, and have now completed the game! It's been
-  totally worth the time and attention to see all the endings and unlock the
-  true ending.
+excerpt: One thing I've done during this early May Bank Holiday weekend is to finally
+  finish *Tokyo Chronos*. I've been playing it intermittently over a period of about
+  three months, and have now completed the game! It's been totally worth the time
+  and attention to see all the endings and unlock the true ending.
 layout: single
-date: 2021-05-02T09:25:36.287Z
 comments: true
 read_time: true
 ---
+
 Of the three VR games I've played since I got my Quest 2, this one has taken the longest to complete because to get the most out of it, you do actually have to read and understand the story (duh! it's a novel). It's my favourite game I've played so far.
 
 ![Tokyo Chronos box art](/assets/uploads/tokyo_chronos-cover.png "Tokyo Chronos")

@@ -116,9 +116,6 @@ author:
     - label: "dafuloth.me"
       icon: "fas fa-fw fa-link"
       url: "https://dafuloth.me"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dafuloth"
     - label: "Last.fm"
       icon: "fab fa-fw fa-lastfm-square"
       url: "https://www.last.fm/user/ethereal_shadow"
@@ -132,9 +129,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/dafuloth"
 
 # Reading Files
 include:

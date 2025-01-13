@@ -26,7 +26,7 @@ My first taste of VR was a cheap plastic Google Cardboard headset. The Quest 2 i
 
 ![My first three VR games were Red Matter, The Room VR, and Tokyo Chronos](/assets/uploads/red-matter_the-room-vr_tokyo-chronos_shorter.png "Adventures in VR: Red Matter, The Room VR, Tokyo Chronos (source: oculus.com)")
 
-At this point I've completed three games: *Red Matter*, *The Room VR: A Dark Matter*, and most recently *[Tokyo Chronos](<{% post_url 2021-05-01-review-tokyo-chronos %}>)*. All grabbed when they were Oculus daily deals or if I had a discount code.
+At this point I've completed three games: *Red Matter*, *The Room VR: A Dark Matter*, and most recently *[Tokyo Chronos](<{% post_url 2021-05-02-review-tokyo-chronos %}>)*. All grabbed when they were Oculus daily deals or if I had a discount code.
 
 I have not been disappointed. VR is great for immersion. I love escape room games (hence *Red Matter* and *The Room*) which work really well as immersive VR. For a visual novel like *Tokyo Chronos*, it really makes you feel part of the story, and it really does feel like you're in an anime.
 

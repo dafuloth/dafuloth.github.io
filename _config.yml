@@ -19,7 +19,7 @@ defaults:
     comments: 
     share: true
     related: true
-remote_theme: mmistakes/minimal-mistakes@4.22.0
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: dark
 locale: en-GB
 title_separator: " :: "
